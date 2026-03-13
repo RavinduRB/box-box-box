@@ -36,3 +36,9 @@ temp/
 # System files
 Thumbs.db
 desktop.ini
+
+# Large ML model files (exceed GitHub's 100MB file size limit)
+*.pkl
+*.h5
+*.pickle
+*.joblib

@@ -1,0 +1,22 @@
+# ML Dependencies for F1 Race Simulator
+# Install with: pip install -r requirements_ml.txt
+
+# Data Processing
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+
+# Deep Learning
+tensorflow>=2.9.0
+keras>=2.9.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Utilities
+joblib>=1.1.0
